@@ -12,6 +12,7 @@ Octopress is [Jekyll](https://github.com/mojombo/jekyll) blogging at its finest.
 ## Documentation
 
 Check out [Octopress.org](http://octopress.org/docs) for guides and documentation.
+Octopress is a framework designed for Jekyll, the static blogging engine powering Github Pages. Have a look through the documentation and if you have trouble, I'll be happy to help. If you find errors in the documentation post an issue or fork and send a pull request to the master branch.
 
 
 ## Contributing
@@ -34,3 +35,12 @@ THE SOFTWARE IS PROVIDED ‘AS IS’, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 #### If you want to be awesome.
 - Proudly display the 'Powered by Octopress' credit in the footer.
 - Add your site to the Wiki so we can watch the community grow.
+
+#### Your blog should be awesome. This should help.
+
+Blogging Basics - how to create blog posts and pages
+Deploying Octopress - simple deploy instructions for Rsync and Github pages
+Sharing Code Snippets - share code snippets with ease
+Blogging With Plugins - overview of plugins for blogging
+Theming & Customization - guide to making changes to your Octopress theme
+Updating Octopress - a guide to help you stay current with Octopress
